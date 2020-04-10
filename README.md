@@ -36,7 +36,7 @@ Regression analysis can be employed to study this scenario, in which you have to
 Regression analysis is part of a family of machine learning techniques called **supervised machine learning**. It is called supervised because the machine learning algorithm that learns the model is provided a kind of question and answer dataset to learn from. The question here is the key attribute and the answer is the property price for each property that is used in the study, as shown in the following figure:
 
 ![Example of a Supervised learning technique](supervised_learning.png)
-<p align="center">*Figure 1.2: Example of a supervised learning technique* </p>
+<p align="center"><b>Figure 1.2: Example of a supervised learning technique. </b></p>
 
 Once a model has been learned by the algorithm, we can provide the model with a question (that is, a set of attributes for a property whose price we want to find) for it to tell us what the answer (that is, the price) of that property will be.
 
