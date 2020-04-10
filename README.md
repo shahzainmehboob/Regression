@@ -9,7 +9,7 @@ This lesson is an introduction to linear regression analysis and its application
 The previous lesson provided a primer to Python programming and an overview of the data science field. Data science is a relatively young multidisciplinary field of study. It draws its concepts and methods from the traditional fields of statistics, computer science, and the broad field of artificial intelligence (AI), especially the subfield of AI called machine learning:
 
 ![Regression](regression2.png)
-<p align="center">Figure 1.1: The data science models </p>
+<p align="center">*Figure 1.1: The data science models* </p>
 
 As you can see in *Figure 2.1*, data science aims to make use of both **structured** and **unstructured** data, develop models that can be effectively used, make predictions, and also derive insights for decision making.
 
@@ -36,6 +36,7 @@ Regression analysis can be employed to study this scenario, in which you have to
 Regression analysis is part of a family of machine learning techniques called **supervised machine learning**. It is called supervised because the machine learning algorithm that learns the model is provided a kind of question and answer dataset to learn from. The question here is the key attribute and the answer is the property price for each property that is used in the study, as shown in the following figure:
 
 ![Example of a Supervised learning technique](supervised_learning.png)
+<p align="center">*Figure 1.2: Example of a supervised learning technique* </p>
 
 Once a model has been learned by the algorithm, we can provide the model with a question (that is, a set of attributes for a property whose price we want to find) for it to tell us what the answer (that is, the price) of that property will be.
 
