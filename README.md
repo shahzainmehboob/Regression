@@ -9,7 +9,7 @@ This lesson is an introduction to linear regression analysis and its application
 The previous lesson provided a primer to Python programming and an overview of the data science field. Data science is a relatively young multidisciplinary field of study. It draws its concepts and methods from the traditional fields of statistics, computer science, and the broad field of artificial intelligence (AI), especially the subfield of AI called machine learning:
 
 ![Regression](regression2.png)
-\centre{Figure 1.1: The data science models}
+<p align="center">Figure 1.1: The data science models </p>
 
 As you can see in *Figure 2.1*, data science aims to make use of both **structured** and **unstructured** data, develop models that can be effectively used, make predictions, and also derive insights for decision making.
 
