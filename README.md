@@ -11,7 +11,7 @@ The previous lesson provided a primer to Python programming and an overview of t
 ![Regression](regression2.png).
 <p align="center"><b>Figure 1.1: The data science models </b></p>
 
-As you can see in *Figure 2.1*, data science aims to make use of both **structured** and **unstructured** data, develop models that can be effectively used, make predictions, and also derive insights for decision making.
+As you can see in *Figure 1.1*, data science aims to make use of both **structured** and **unstructured** data, develop models that can be effectively used, make predictions, and also derive insights for decision making.
 
 A loose description of structured data will be any set of data that can be conveniently arranged into a table that consists of rows and columns. This kind of data is normally stored in database management systems.
 
